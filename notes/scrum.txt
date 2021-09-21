@@ -1,0 +1,39 @@
+Software Development Process:
+
+Waterfall Process:
+software build similar as a construction project
+
+bad:
+lots of unknowns
+user to give you feedback quick
+
+Agile Process - Scrum
+2 week sprint ( 1 week sprint)
+
+1. User Stories (they do not have technical details): you need this for the project. This was made by a Product Owner
+
+Processes within scrum:
+A. Backlog grooming/planning: developers ask questions to the Product Owner.
+
+Prioritize the stories.
+Developers come up with a list of technical tasks
+
+1. Build a repo in github
+2. script to do so and so
+3. html page using bootstrap
+4. order is important
+
+Daily Standup (don't last more than 10 minutes): scrum master + developers
+- what I did yesterday
+- what I'm going to do today
+- is anything stopping me
+
+Demo: you want to demo to the user what you did: 1 week or 2 weeks.
+quick feedback: Am I on the right track
+
+Retro: Happens at the of the sprint. reflect on that sprint: what was good/bad.
+
+
+
+
+

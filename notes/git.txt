@@ -1,0 +1,27 @@
+there's a main branch
+
+1. everyone gets a copy of the main branch on their computer: (own computer)
+`git clone` or
+`git pull`
+
+2. everybody creates its own branch, use a name close to what your story (own computer)
+`git checkout -b branch-name`
+do whatever work.
+`git add`
+`git commit`
+Once you are done with your work
+
+3. bring changes from main into your branch (locally in your computer)
+`git pull origin main` (merges your changes with the changes in main that happened in the mean time)
+sometimes you can hav conflicts. 
+
+4. once you have no conflicts, it's time to push your branch up to git
+`git push` (your branch to git)
+
+5. now you can merge into main in git (this is done in github)
+- create a pull request
+- look at the differences between your branch and main with your whole team
+- looked by the team
+- one person creates the pull request, and other person merges into main
+
+
