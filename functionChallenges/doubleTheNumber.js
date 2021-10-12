@@ -1,9 +1,7 @@
 const assert = require('assert');
 
 function doubleTheNumber (arr) {
-  if(arr === undefined)
-    return undefined;
-	return arr.map(i => i * 2);
+  return arr === undefined ? undefined : arr.map(i => i * 2);
 }
 
 assert.deepEqual(doubleTheNumber(), undefined);
