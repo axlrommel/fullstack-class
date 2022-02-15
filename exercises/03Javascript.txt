@@ -1,0 +1,29 @@
+//
+var str, numbers, booleans, arrays (lists)
+var str + str
+var num + num;
+
+if....
+
+
+module: %
+
+arr.length
+arr[0]
+arr[1]
+
+Math.random()
+Math.floor()
+
+
+functions: 
+odd or even
+random element of array
+
+//powerball generator
+
+objects
+
+
+
+if
